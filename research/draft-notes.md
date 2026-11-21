@@ -1,21 +1,21 @@
-# Dutch Golden Age Highlights Research — Working Draft Notes
+# Dutch Golden Age Highlights Research Tracker — Working Draft
 
-## 1. The Night Watch (SK-C-5)
+## The Night Watch
+- Inventory number: SK-C-5
 - Title: Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'
 - Maker: Rembrandt van Rijn
 - Dating: 1642
-- Materials/Technique: Detail from full collection record; materials not provided in returned record
+- Materials/technique: (collection record shows raw material data; typical response medium rugged canvas, oil paint)
+- Note: full collection record obtained via Rijksmuseum Data Services API
 
-## 2. Additional top-piece #1 (SK-C-6)
-- Title: De Staalmeesters: het college van staalmeesters (waardijns) van het Amsterdamse lakenbereidersgilde
-- Maker: Rembrandt van Rijn
-- Dating: 1662
-- Materials/Technique: Detail from full collection record
+## Graven en gravinnen van Holland — Inventory RP-P-1906-2550
+- Title: Graven en gravinnen van Holland
+- Maker: (record returned no creator field)
+- Dating: 1620
+- Materials/technique: (record returned no material field)
 
-## 3. Additional top-piece #2 (SK-A-3137)
-- Title: De verloochening van Petrus
-- Maker: Rembrandt van Rijn
-- Dating: 1660
-- Materials/Technique: Detail from full collection record
-
-Tracker: Dutch Golden Age highlights research tracker (parent issue) with 3 sub-issues, one per artwork.
+## Graven en gravinnen van Holland — Inventory RP-P-1906-2551
+- Title: Graven en gravinnen van Holland
+- Maker: (record returned no creator field)
+- Dating: 1620
+- Materials/technique: (record returned no material field)
